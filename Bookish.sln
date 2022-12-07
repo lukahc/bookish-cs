@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookish.ConsoleApp", "Bookish.ConsoleApp.csproj", "{45068277-928D-40C5-AF38-D305D4F169E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookish.DataAccess", "DataAccess\Bookish.DataAccess.csproj", "{35A1F43D-EB4F-4C01-B298-FD57BE227FB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45068277-928D-40C5-AF38-D305D4F169E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45068277-928D-40C5-AF38-D305D4F169E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45068277-928D-40C5-AF38-D305D4F169E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45068277-928D-40C5-AF38-D305D4F169E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35A1F43D-EB4F-4C01-B298-FD57BE227FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A1F43D-EB4F-4C01-B298-FD57BE227FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A1F43D-EB4F-4C01-B298-FD57BE227FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A1F43D-EB4F-4C01-B298-FD57BE227FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D10E379-7A05-45A4-9935-A7070C2D0A46}
+	EndGlobalSection
+EndGlobal

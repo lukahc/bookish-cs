@@ -1,0 +1,12 @@
+C:\Work\c#-bootcamp\DataAccess\bin\Debug\net6.0\Bookish.DataAccess.deps.json
+C:\Work\c#-bootcamp\DataAccess\bin\Debug\net6.0\Bookish.DataAccess.dll
+C:\Work\c#-bootcamp\DataAccess\bin\Debug\net6.0\Bookish.DataAccess.pdb
+C:\Work\c#-bootcamp\DataAccess\obj\Debug\net6.0\Bookish.DataAccess.csproj.AssemblyReference.cache
+C:\Work\c#-bootcamp\DataAccess\obj\Debug\net6.0\Bookish.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\c#-bootcamp\DataAccess\obj\Debug\net6.0\Bookish.DataAccess.AssemblyInfoInputs.cache
+C:\Work\c#-bootcamp\DataAccess\obj\Debug\net6.0\Bookish.DataAccess.AssemblyInfo.cs
+C:\Work\c#-bootcamp\DataAccess\obj\Debug\net6.0\Bookish.DataAccess.csproj.CoreCompileInputs.cache
+C:\Work\c#-bootcamp\DataAccess\obj\Debug\net6.0\Bookish.DataAccess.dll
+C:\Work\c#-bootcamp\DataAccess\obj\Debug\net6.0\refint\Bookish.DataAccess.dll
+C:\Work\c#-bootcamp\DataAccess\obj\Debug\net6.0\Bookish.DataAccess.pdb
+C:\Work\c#-bootcamp\DataAccess\obj\Debug\net6.0\ref\Bookish.DataAccess.dll
